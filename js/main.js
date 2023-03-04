@@ -1,4 +1,6 @@
 /*jslint browser:true */
+/*New Comments*/
+
 $(document).ready(function () {
 	var $body = $("body");
 	var $navbar = $(".navbar-default");
