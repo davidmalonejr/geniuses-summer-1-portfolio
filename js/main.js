@@ -1,7 +1,7 @@
 /*jslint browser:true */
 /*Finalize Change Success*/
 /*Latest Updates*/
-/*Old Updates*/
+/*New Updates*/
 
 /*Another Change To File*/
 $(document).ready(function () {
