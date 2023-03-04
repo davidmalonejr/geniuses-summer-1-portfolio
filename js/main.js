@@ -42,6 +42,7 @@ $(document).ready(function () {
 			closeMenu();
 		});
 	}
+	/*New Comments2*/
 	function closeMenu() {
 		$menuIcon
 			.removeClass("glyphicon-remove active")
