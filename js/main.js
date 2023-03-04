@@ -13,6 +13,7 @@ $(document).ready(function () {
 	var $socialIcon = $(".social");
 
 	// Fixed Nav after scroll
+	/*New Comments*/
 	function scroll() {
 		if ($(window).scrollTop() >= $offsetY) {
 			$navbar
@@ -25,6 +26,7 @@ $(document).ready(function () {
 	document.onscroll = scroll;
 
 	// Mobile Menu functions
+	/*New Comments*/
 	function openMenu() {
 		$menuIcon
 			.removeClass("glyphicon-menu-hamburger")

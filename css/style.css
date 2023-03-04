@@ -2,14 +2,14 @@
   General Styles
 ===================== */
 html { font-size: 110%; }
-html, body {
+html, body { /*New Comments*/
   height: 100%; /* Fullscreen BG */
   width: 100%; /*Style CSS*/
 }
 body {
   color: #394c4a; /*New Comments*/
   font-family: 'Work Sans', helvetica, sans-serif;
-  font-size: 1rem;
+  font-size: 1rem; /*New Comments*/
   font-weight: 300;
   line-height: 1.5;
 }
