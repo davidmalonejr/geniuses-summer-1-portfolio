@@ -2,9 +2,9 @@
   General Styles
 ===================== */
 html { font-size: 110%; }
-html, body { /*New Comments*/
+html, body { 
   height: 100%; /* Fullscreen BG */
-  width: 100%;/*New Comments*/
+  width: 100%;
 }
 body {
   color: #394c4a;

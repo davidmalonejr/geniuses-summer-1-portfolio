@@ -1,5 +1,5 @@
 /*jslint browser:true */
-/*New Comments*/
+
 
 $(document).ready(function () {
 	var $body = $("body");
