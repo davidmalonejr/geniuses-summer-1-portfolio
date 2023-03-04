@@ -4,7 +4,7 @@
 html { font-size: 110%; }
 html, body {
   height: 100%; /* Fullscreen BG */
-  width: 100%;
+  width: 100%; /*Style CSS*/
 }
 body {
   color: #394c4a;
