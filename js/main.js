@@ -1,6 +1,14 @@
 /*jslint browser:true */
+<<<<<<< HEAD
 /*New Change*/
 
+||||||| 2ce4dbd
+/*Change*/
+
+=======
+/*Change*/
+/*New Change*/
+>>>>>>> javascript
 $(document).ready(function () {
 	var $body = $("body");
 	var $navbar = $(".navbar-default");
@@ -26,7 +34,7 @@ $(document).ready(function () {
 	document.onscroll = scroll;
 
 	// Mobile Menu functions
-	/*New Commenus working good*/
+	/* Working Fine*/
 	function openMenu() {
 		$menuIcon
 			.removeClass("glyphicon-menu-hamburger")
