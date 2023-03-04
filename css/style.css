@@ -4,14 +4,14 @@
 html { font-size: 110%; }
 html, body { /*New Comments*/
   height: 100%; /* Fullscreen BG */
-  width: 100%;
+  width: 100%;/*New Comments*/
 }
 body {
   color: #394c4a;
   font-family: 'Work Sans', helvetica, sans-serif;
   font-size: 1rem; /*New Comments*/
   font-weight: 300;
-  line-height: 1.5;
+  line-height: 1.5;/*New Comments*/
 }
 h1 {
   font-family: 'Unica One', cursive;
