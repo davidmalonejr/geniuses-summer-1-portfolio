@@ -1,5 +1,6 @@
 /*jslint browser:true */
 /*Finalize Change Success*/
+/*Latest Updates*/
 $(document).ready(function () {
 	var $body = $("body");
 	var $navbar = $(".navbar-default");
