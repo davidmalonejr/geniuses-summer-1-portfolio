@@ -1,6 +1,6 @@
 /*jslint browser:true */
 /*Change*/
-
+/*New Change*/
 $(document).ready(function () {
 	var $body = $("body");
 	var $navbar = $(".navbar-default");
