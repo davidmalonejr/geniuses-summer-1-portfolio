@@ -2,7 +2,7 @@
   General Styles
 ===================== */
 html { font-size: 110%; }
-html, body {
+html, body { /*New Comments*/
   height: 100%; /* Fullscreen BG */
   width: 100%;
 }
