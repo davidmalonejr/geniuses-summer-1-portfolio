@@ -1,14 +1,5 @@
 /*jslint browser:true */
-<<<<<<< HEAD
-/*New Change*/
-
-||||||| 2ce4dbd
-/*Change*/
-
-=======
-/*Change*/
-/*New Change*/
->>>>>>> javascript
+/*Finalize Change Success*/
 $(document).ready(function () {
 	var $body = $("body");
 	var $navbar = $(".navbar-default");
@@ -34,7 +25,7 @@ $(document).ready(function () {
 	document.onscroll = scroll;
 
 	// Mobile Menu functions
-	/* Working Fine*/
+	/*Updates Successful*/
 	function openMenu() {
 		$menuIcon
 			.removeClass("glyphicon-menu-hamburger")
@@ -50,12 +41,7 @@ $(document).ready(function () {
 			closeMenu();
 		});
 	}
-<<<<<<< HEAD
-	/*New Comments2*/
-||||||| 9d5d47f
-=======
-	/*New Comments3*/
->>>>>>> javascript
+	/*New Comments Updates*/
 	function closeMenu() {
 		$menuIcon
 			.removeClass("glyphicon-remove active")
