@@ -9,7 +9,7 @@ html, body {
 body {
   color: #394c4a;
   font-family: 'Work Sans', helvetica, sans-serif;
-  font-size: 1rem;
+  font-size: 1rem; /*New Comments*/
   font-weight: 300;
   line-height: 1.5;
 }
