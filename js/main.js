@@ -26,7 +26,7 @@ $(document).ready(function () {
 	document.onscroll = scroll;
 
 	// Mobile Menu functions
-	/*New Comments*/
+	/*New Commenus working good*/
 	function openMenu() {
 		$menuIcon
 			.removeClass("glyphicon-menu-hamburger")
@@ -42,7 +42,12 @@ $(document).ready(function () {
 			closeMenu();
 		});
 	}
+<<<<<<< HEAD
 	/*New Comments2*/
+||||||| 9d5d47f
+=======
+	/*New Comments3*/
+>>>>>>> javascript
 	function closeMenu() {
 		$menuIcon
 			.removeClass("glyphicon-remove active")
